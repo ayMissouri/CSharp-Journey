@@ -1,0 +1,15 @@
+F:\C#\3_Variables\obj\Debug\net6.0\3_Variables.csproj.AssemblyReference.cache
+F:\C#\3_Variables\obj\Debug\net6.0\3_Variables.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\3_Variables\obj\Debug\net6.0\3_Variables.AssemblyInfoInputs.cache
+F:\C#\3_Variables\obj\Debug\net6.0\3_Variables.AssemblyInfo.cs
+F:\C#\3_Variables\obj\Debug\net6.0\3_Variables.csproj.CoreCompileInputs.cache
+F:\C#\3_Variables\bin\Debug\net6.0\3_Variables.exe
+F:\C#\3_Variables\bin\Debug\net6.0\3_Variables.deps.json
+F:\C#\3_Variables\bin\Debug\net6.0\3_Variables.runtimeconfig.json
+F:\C#\3_Variables\bin\Debug\net6.0\3_Variables.dll
+F:\C#\3_Variables\bin\Debug\net6.0\3_Variables.pdb
+F:\C#\3_Variables\obj\Debug\net6.0\3_Variables.dll
+F:\C#\3_Variables\obj\Debug\net6.0\refint\3_Variables.dll
+F:\C#\3_Variables\obj\Debug\net6.0\3_Variables.pdb
+F:\C#\3_Variables\obj\Debug\net6.0\3_Variables.genruntimeconfig.cache
+F:\C#\3_Variables\obj\Debug\net6.0\ref\3_Variables.dll

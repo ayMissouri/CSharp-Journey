@@ -1,0 +1,15 @@
+F:\C#\2_OlyStyleApp\bin\Debug\net6.0\2_OlyStyleApp.exe
+F:\C#\2_OlyStyleApp\bin\Debug\net6.0\2_OlyStyleApp.deps.json
+F:\C#\2_OlyStyleApp\bin\Debug\net6.0\2_OlyStyleApp.runtimeconfig.json
+F:\C#\2_OlyStyleApp\bin\Debug\net6.0\2_OlyStyleApp.dll
+F:\C#\2_OlyStyleApp\bin\Debug\net6.0\2_OlyStyleApp.pdb
+F:\C#\2_OlyStyleApp\obj\Debug\net6.0\2_OlyStyleApp.csproj.AssemblyReference.cache
+F:\C#\2_OlyStyleApp\obj\Debug\net6.0\2_OlyStyleApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\2_OlyStyleApp\obj\Debug\net6.0\2_OlyStyleApp.AssemblyInfoInputs.cache
+F:\C#\2_OlyStyleApp\obj\Debug\net6.0\2_OlyStyleApp.AssemblyInfo.cs
+F:\C#\2_OlyStyleApp\obj\Debug\net6.0\2_OlyStyleApp.csproj.CoreCompileInputs.cache
+F:\C#\2_OlyStyleApp\obj\Debug\net6.0\2_OlyStyleApp.dll
+F:\C#\2_OlyStyleApp\obj\Debug\net6.0\refint\2_OlyStyleApp.dll
+F:\C#\2_OlyStyleApp\obj\Debug\net6.0\2_OlyStyleApp.pdb
+F:\C#\2_OlyStyleApp\obj\Debug\net6.0\2_OlyStyleApp.genruntimeconfig.cache
+F:\C#\2_OlyStyleApp\obj\Debug\net6.0\ref\2_OlyStyleApp.dll
