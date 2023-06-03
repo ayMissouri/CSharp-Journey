@@ -1,0 +1,15 @@
+F:\C#\9_Implicit_and_Explicit_Conversion\bin\Debug\net6.0\9_Implicit_and_Explicit_Conversion.exe
+F:\C#\9_Implicit_and_Explicit_Conversion\bin\Debug\net6.0\9_Implicit_and_Explicit_Conversion.deps.json
+F:\C#\9_Implicit_and_Explicit_Conversion\bin\Debug\net6.0\9_Implicit_and_Explicit_Conversion.runtimeconfig.json
+F:\C#\9_Implicit_and_Explicit_Conversion\bin\Debug\net6.0\9_Implicit_and_Explicit_Conversion.dll
+F:\C#\9_Implicit_and_Explicit_Conversion\bin\Debug\net6.0\9_Implicit_and_Explicit_Conversion.pdb
+F:\C#\9_Implicit_and_Explicit_Conversion\obj\Debug\net6.0\9_Implicit_and_Explicit_Conversion.csproj.AssemblyReference.cache
+F:\C#\9_Implicit_and_Explicit_Conversion\obj\Debug\net6.0\9_Implicit_and_Explicit_Conversion.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\9_Implicit_and_Explicit_Conversion\obj\Debug\net6.0\9_Implicit_and_Explicit_Conversion.AssemblyInfoInputs.cache
+F:\C#\9_Implicit_and_Explicit_Conversion\obj\Debug\net6.0\9_Implicit_and_Explicit_Conversion.AssemblyInfo.cs
+F:\C#\9_Implicit_and_Explicit_Conversion\obj\Debug\net6.0\9_Implicit_and_Explicit_Conversion.csproj.CoreCompileInputs.cache
+F:\C#\9_Implicit_and_Explicit_Conversion\obj\Debug\net6.0\9_Implicit_and_Explicit_Conversion.dll
+F:\C#\9_Implicit_and_Explicit_Conversion\obj\Debug\net6.0\refint\9_Implicit_and_Explicit_Conversion.dll
+F:\C#\9_Implicit_and_Explicit_Conversion\obj\Debug\net6.0\9_Implicit_and_Explicit_Conversion.pdb
+F:\C#\9_Implicit_and_Explicit_Conversion\obj\Debug\net6.0\9_Implicit_and_Explicit_Conversion.genruntimeconfig.cache
+F:\C#\9_Implicit_and_Explicit_Conversion\obj\Debug\net6.0\ref\9_Implicit_and_Explicit_Conversion.dll
