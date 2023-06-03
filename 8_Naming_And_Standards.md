@@ -20,3 +20,5 @@ Use "Camel Case"
 Don't use numbers at the beginning of variable names
 
 Try not to use underscores in the middle of variable names
+
+src: https://www.dofactory.com/csharp-coding-standards
