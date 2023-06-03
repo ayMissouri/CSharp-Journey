@@ -1,0 +1,15 @@
+F:\C#\4_Datatypes\bin\Debug\net6.0\4_Datatypes.exe
+F:\C#\4_Datatypes\bin\Debug\net6.0\4_Datatypes.deps.json
+F:\C#\4_Datatypes\bin\Debug\net6.0\4_Datatypes.runtimeconfig.json
+F:\C#\4_Datatypes\bin\Debug\net6.0\4_Datatypes.dll
+F:\C#\4_Datatypes\bin\Debug\net6.0\4_Datatypes.pdb
+F:\C#\4_Datatypes\obj\Debug\net6.0\4_Datatypes.csproj.AssemblyReference.cache
+F:\C#\4_Datatypes\obj\Debug\net6.0\4_Datatypes.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\4_Datatypes\obj\Debug\net6.0\4_Datatypes.AssemblyInfoInputs.cache
+F:\C#\4_Datatypes\obj\Debug\net6.0\4_Datatypes.AssemblyInfo.cs
+F:\C#\4_Datatypes\obj\Debug\net6.0\4_Datatypes.csproj.CoreCompileInputs.cache
+F:\C#\4_Datatypes\obj\Debug\net6.0\4_Datatypes.dll
+F:\C#\4_Datatypes\obj\Debug\net6.0\refint\4_Datatypes.dll
+F:\C#\4_Datatypes\obj\Debug\net6.0\4_Datatypes.pdb
+F:\C#\4_Datatypes\obj\Debug\net6.0\4_Datatypes.genruntimeconfig.cache
+F:\C#\4_Datatypes\obj\Debug\net6.0\ref\4_Datatypes.dll
