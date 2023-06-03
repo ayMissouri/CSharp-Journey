@@ -1,0 +1,15 @@
+F:\C#\10_Parsing\bin\Debug\net6.0\10_Parsing.exe
+F:\C#\10_Parsing\bin\Debug\net6.0\10_Parsing.deps.json
+F:\C#\10_Parsing\bin\Debug\net6.0\10_Parsing.runtimeconfig.json
+F:\C#\10_Parsing\bin\Debug\net6.0\10_Parsing.dll
+F:\C#\10_Parsing\bin\Debug\net6.0\10_Parsing.pdb
+F:\C#\10_Parsing\obj\Debug\net6.0\10_Parsing.csproj.AssemblyReference.cache
+F:\C#\10_Parsing\obj\Debug\net6.0\10_Parsing.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\10_Parsing\obj\Debug\net6.0\10_Parsing.AssemblyInfoInputs.cache
+F:\C#\10_Parsing\obj\Debug\net6.0\10_Parsing.AssemblyInfo.cs
+F:\C#\10_Parsing\obj\Debug\net6.0\10_Parsing.csproj.CoreCompileInputs.cache
+F:\C#\10_Parsing\obj\Debug\net6.0\10_Parsing.dll
+F:\C#\10_Parsing\obj\Debug\net6.0\refint\10_Parsing.dll
+F:\C#\10_Parsing\obj\Debug\net6.0\10_Parsing.pdb
+F:\C#\10_Parsing\obj\Debug\net6.0\10_Parsing.genruntimeconfig.cache
+F:\C#\10_Parsing\obj\Debug\net6.0\ref\10_Parsing.dll
