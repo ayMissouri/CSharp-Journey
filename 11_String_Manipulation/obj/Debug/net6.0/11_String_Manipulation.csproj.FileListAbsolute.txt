@@ -1,0 +1,15 @@
+F:\C#\11_String_Manipulation\bin\Debug\net6.0\11_String_Manipulation.exe
+F:\C#\11_String_Manipulation\bin\Debug\net6.0\11_String_Manipulation.deps.json
+F:\C#\11_String_Manipulation\bin\Debug\net6.0\11_String_Manipulation.runtimeconfig.json
+F:\C#\11_String_Manipulation\bin\Debug\net6.0\11_String_Manipulation.dll
+F:\C#\11_String_Manipulation\bin\Debug\net6.0\11_String_Manipulation.pdb
+F:\C#\11_String_Manipulation\obj\Debug\net6.0\11_String_Manipulation.csproj.AssemblyReference.cache
+F:\C#\11_String_Manipulation\obj\Debug\net6.0\11_String_Manipulation.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\11_String_Manipulation\obj\Debug\net6.0\11_String_Manipulation.AssemblyInfoInputs.cache
+F:\C#\11_String_Manipulation\obj\Debug\net6.0\11_String_Manipulation.AssemblyInfo.cs
+F:\C#\11_String_Manipulation\obj\Debug\net6.0\11_String_Manipulation.csproj.CoreCompileInputs.cache
+F:\C#\11_String_Manipulation\obj\Debug\net6.0\11_String_Manipulation.dll
+F:\C#\11_String_Manipulation\obj\Debug\net6.0\refint\11_String_Manipulation.dll
+F:\C#\11_String_Manipulation\obj\Debug\net6.0\11_String_Manipulation.pdb
+F:\C#\11_String_Manipulation\obj\Debug\net6.0\11_String_Manipulation.genruntimeconfig.cache
+F:\C#\11_String_Manipulation\obj\Debug\net6.0\ref\11_String_Manipulation.dll
